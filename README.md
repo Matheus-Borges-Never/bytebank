@@ -1,6 +1,6 @@
 <h1 align="center"> Bytebank </h1>
 
-![](../Downloads/bytebank.png)
+![](img/bytebank.png)
 
 ## Descrição do Projeto
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
