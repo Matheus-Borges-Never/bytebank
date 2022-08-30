@@ -4,11 +4,13 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BytebankComponent } from './bytebank/bytebank.component';
+import { NovaTransferenciaComponent } from './nova-transferencia/nova-transferencia.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    BytebankComponent
+    BytebankComponent,
+    NovaTransferenciaComponent
   ],
   imports: [
     BrowserModule,
