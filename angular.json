@@ -5,7 +5,11 @@
   "projects": {
     "bytebank": {
       "projectType": "application",
-      "schematics": {},
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss"
+        }
+      },
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -24,7 +28,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
             ],
             "scripts": []
           },
@@ -88,7 +92,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
             ],
             "scripts": []
           }
@@ -123,6 +127,6 @@
   },
   "defaultProject": "bytebank",
   "cli": {
-    "analytics": "75aa54ef-00e1-47b4-b8db-3d1e0544f516"
+    "analytics": false
   }
 }
