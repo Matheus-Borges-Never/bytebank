@@ -1,27 +1,31 @@
-# Bytebank
+<h1 align="center"> Bytebank </h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+![](img/bytebank.png)
 
-## Development server
+## Descrição do Projeto
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Projeto em desenvolvimento para aprendizagem do Angular.
+<br>
+O Bytebank é um banco fictício criado para simular uma transferencia bancaria.
 
-## Code scaffolding
+## Status
+:construction: Projeto em construção :construction:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- `Funcionalidade 1`: Afins de aprendizagem
+- `Funcionalidade 2`: Simular uma transferencia bancaria com Angular
 
-## Build
+## ✔️ Técnicas e tecnologias utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- ``Angular 11.2.9``
+- ``Node.js 16.17.0``
+- ``Paradigma de orientação a objetos``
 
-## Running unit tests
+## 📁 Acesso ao projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Faça o download da pasta zip do projeto pelo GitHub**
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## 🛠️ Abrir e rodar o projeto
+**Abra pelo VS Code e execute (é necessario o localhost:4200)**
