@@ -3,29 +3,50 @@
 ![](img/bytebank.png)
 
 ## Descrição do Projeto
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-
 Projeto em desenvolvimento para aprendizagem do Angular.
 <br>
 O Bytebank é um banco fictício criado para simular uma transferencia bancaria.
 
+
+## 🛠️ Desenvolvido por Matheus Borges
+  [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Matheus-Borges-Never)
+    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-borges-paulino-31a4861a5/) 
+    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/matheus_borges92/) 
+
 ## Status
-:construction: Projeto em construção :construction:
+:chart: Projeto Finalizado :chart:
 
 - `Funcionalidade 1`: Afins de aprendizagem
 - `Funcionalidade 2`: Simular uma transferencia bancaria com Angular
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``Angular 11.2.9``
-- ``Node.js 16.17.0``
+- ``ANGULAR 11.2.9`` ![Badge Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- ``NODE.JS 16.17.0`` ![Badge Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- ``HTML5`` ![Badge HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ``CSS3`` ![Badge CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ``SAAS`` ![Badge Node.JS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+- ``JAVASCRIPT`` ![Badge HTML5](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ``TYPESCRIPT`` ![Badge CSS3](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ``BOOTSTRAP`` ![Badge CSS3](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ``GIT`` ![Badge GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 - ``Paradigma de orientação a objetos``
 
 ## 📁 Acesso ao projeto
 
-**Faça o download da pasta zip do projeto pelo GitHub**
+**Faça o download do Angular no cmd com os comandos:**
+**npm install -g @angular/cli**
+**ng new bytebank**
+**cd bytebank**
+**ng serve --open**
+**Pegue somente a pasta src do projeto e substitua**
+**Faça o download do JSON Server no cmd dentro da pasta do projeto:**
+**npm install -g json-server**
+**json-server --watch db.json**
 
 
 ## 🛠️ Abrir e rodar o projeto
 **Abra pelo VS Code e execute (é necessario o localhost:4200)**
+**Localhost do Json localhost:3000**
+
+
